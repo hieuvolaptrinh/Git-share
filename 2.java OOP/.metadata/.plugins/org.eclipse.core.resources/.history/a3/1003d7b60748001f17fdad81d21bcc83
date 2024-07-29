@@ -1,0 +1,8 @@
+
+public class test {
+	ThoiKhoaBieu tkb2 = new ThoiKhoaBieu(Day.Monday, "toán lý hóa");
+	ThoiKhoaBieu tkb3 = new ThoiKhoaBieu(Day.Tuesday, " lý hóa văn");
+	ThoiKhoaBieu tkb4 = new ThoiKhoaBieu(Day.Wednesday, "sử địa");
+	ThoiKhoaBieu tkb5 = new ThoiKhoaBieu(Day.Monday, "toán lý hóa");
+	
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/arrya/Array/Array.iml" filepath="$PROJECT_DIR$/arrya/Array/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java_28teach.iml" filepath="$PROJECT_DIR$/.idea/Java_28teach.iml" />
+      <module fileurl="file://$PROJECT_DIR$/btcui/btcui.iml" filepath="$PROJECT_DIR$/btcui/btcui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ctdl_gt/ctdl_gt.iml" filepath="$PROJECT_DIR$/ctdl_gt/ctdl_gt.iml" />
+    </modules>
+  </component>
+</project>

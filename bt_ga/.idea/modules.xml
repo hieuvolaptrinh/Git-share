@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1.ham/1.ham.iml" filepath="$PROJECT_DIR$/1.ham/1.ham.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interface_classcon_kethua_tu_nhieuclass_cha/Interface_classcon_kethua_tu_nhieuclass_cha.iml" filepath="$PROJECT_DIR$/Interface_classcon_kethua_tu_nhieuclass_cha/Interface_classcon_kethua_tu_nhieuclass_cha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP.da_hinh/OOP.da_hinh.iml" filepath="$PROJECT_DIR$/OOP.da_hinh/OOP.da_hinh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPKe_thua_trutuong/OOPKe_thua.iml" filepath="$PROJECT_DIR$/OOPKe_thua_trutuong/OOPKe_thua.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP_contructor/OOP_contructor.iml" filepath="$PROJECT_DIR$/OOP_contructor/OOP_contructor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/bt_ga.iml" filepath="$PROJECT_DIR$/.idea/bt_ga.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oopSXClass/oopSXClass.iml" filepath="$PROJECT_DIR$/oopSXClass/oopSXClass.iml" />
+    </modules>
+  </component>
+</project>

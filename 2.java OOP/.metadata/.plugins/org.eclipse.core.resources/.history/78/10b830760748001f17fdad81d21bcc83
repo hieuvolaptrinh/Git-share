@@ -1,0 +1,10 @@
+
+public enum Day {
+Monday,
+Tuesday,
+WednesDay,s
+Thursday,
+Firday,
+Saturday,
+Sunday
+}

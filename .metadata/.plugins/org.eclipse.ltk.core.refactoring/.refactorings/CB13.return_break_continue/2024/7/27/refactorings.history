@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;vidu&apos; to &apos;break_d&apos;&#x0D;&#x0A;- Original project: &apos;CB13.return_break_continue&apos;&#x0D;&#x0A;- Original element: &apos;vidu&apos;&#x0D;&#x0A;- Renamed element: &apos;break_d&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;vidu&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{vidu.java[vidu" matchStrategy="1" name="break_d" qualified="false" references="true" similarDeclarations="false" stamp="1719935866065" textual="false" version="1.0"/>
+</session>

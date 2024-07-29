@@ -1,0 +1,16 @@
+INDEX VERSION 1.134+D:\CODE\java\CB2.kieu_dl\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+4269169857.index
+1025117355.index
+502981146.index
+3803894794.index
+3679149847.index
+258572114.index
+3996505325.index
+2861562374.index
+25945182.index
+219886914.index
+3208054147.index
+594470294.index
+3506522131.index
+1057059882.index

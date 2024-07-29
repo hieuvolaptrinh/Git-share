@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;main.RutThamTrungThuong_HasSet&apos; to &apos;RutThamTrungThuong_HashSet&apos;&#x0D;&#x0A;- Original project: &apos;OOP22.Set&apos;&#x0D;&#x0A;- Original element: &apos;main.RutThamTrungThuong_HasSet&apos;&#x0D;&#x0A;- Renamed element: &apos;main.RutThamTrungThuong_HashSet&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;RutThamTrungThuong_HasSet&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;main{RutThamTrungThuong_HasSet.java[RutThamTrungThuong_HasSet" matchStrategy="1" name="RutThamTrungThuong_HashSet" qualified="false" references="true" similarDeclarations="false" stamp="1722186622210" textual="false" version="1.0"/>
+</session>
