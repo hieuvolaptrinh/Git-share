@@ -10,7 +10,6 @@ public class bt1 {
             a[i] = sc.nextInt( );
         }
         for (int i = 0; i < n; i++) {
-
             boolean seen = false;
             for (int j = 0; j < i; j++) {
                 if ( a[i] == a[j] ) {

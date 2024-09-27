@@ -68,13 +68,9 @@ public class DanhSachSinhVien {
 		Collections.sort(this.danhSach, new Comparator<SinhVien>() {
 
 			@Override
-			public int compare(SinhVien sv1, SinhVien sv2) {
-				if (sv1.getDiemTrungBinh() < sv2.getDiemTrungBinh())
-					return -1;
-				else if (sv1.getDiemTrungBinh() > sv2.getDiemTrungBinh())
-					return 1;
+			public int compare(SinhVien o1, SinhVien o2) {
+				// TODO Auto-generated method stub
 				return 0;
-			}
-		});
+			}});
 	}
 }

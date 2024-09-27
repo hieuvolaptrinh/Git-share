@@ -4,7 +4,7 @@ public class Chuan_Hoa_ten {
 //String trong Java không thể thay đổi một khi nó đã được khai báo, để sử
 //dụng các hàm như chèn, xóa, thêm kí tự ta có thể sử dụng lớp StringBuilder
     public static void main(String[] args) {
-        String s = "NgUYEN ThUY liNh";
+        String s = "NgUYEN ThUY    liNh";
         StringBuilder sb = new StringBuilder("");
         String[] arr = s.split("\\s+");
         for (String x : arr) {

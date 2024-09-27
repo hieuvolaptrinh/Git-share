@@ -35,7 +35,7 @@ public class SinhVien {
 
     //    service method
     public void checkHopLe() {
-        if ( checkDiem( ) ) {
+        if (checkDiem()) {
             System.out.println("điểm hợp lệ");
         } else
             System.out.println("điểm không hợp lệ vui lòng kiểm tra lại điểm");
@@ -52,15 +52,16 @@ public class SinhVien {
 
     }
 
-    public double tinhDTB(double diemToan, double diemVan,double diemAnh) {
-        return (diemToan + diemVan+diemAnh) / 3;
+    public double tinhDTB(double diemToan, double diemVan, double diemAnh) {
+        return (diemToan + diemVan + diemAnh) / 3;
 
     }
-//    parametter list method là trường hợp đặt biệt của overloading method được sử dụng khi ta không thể nắm được số lượng đối só truyền vào.
-    public double TongDiem(double ... arr){
-        double tong=0;
-        for(double x:arr){
-                tong+=x;
+
+    //    parametter list method là trường hợp đặt biệt của overloading method được sử dụng khi ta không thể nắm được số lượng đối só truyền vào.
+    public double TongDiem(double... arr) {
+        double tong = 0;
+        for (double x : arr) {
+            tong += x;
         }
         return tong;
     }

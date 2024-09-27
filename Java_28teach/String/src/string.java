@@ -1,3 +1,5 @@
+package String.src;
+
 import java.util.Scanner;
 
 public class string {
